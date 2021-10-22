@@ -5,7 +5,7 @@
 <h2 align="center">Learn in public & grow with the community </h2>
 
 <div align=center>
-    <img src="" />
+    <img src="https://github.com/LWM-Community/.github/blob/main/folders/LWM.gif" />
 </div>
 
 <div align=center>
