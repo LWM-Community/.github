@@ -21,5 +21,3 @@
 
 
 
-Join our Discord community [here](https://discord.gg/yzegezxsd8)   
-Subscribe our YouTube channel [here](https://www.youtube.com/channel/UCz5O3xDcr4Wxh-p2Zj-re_A)
