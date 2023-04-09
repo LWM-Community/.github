@@ -4,7 +4,7 @@
 <h2 align="center">Learn in public & grow with the community </h2>
 
 <div align=center>
-    <img src="https://raw.githubusercontent.com/LWM-Community/.github/main/folders/LWM%20coMMUNITY.gif" />
+    <img src="https://raw.githubusercontent.com/LWM-Community/.github/main/folders/LWM%20Community%20gif.gif" />
 </div>
 
 <div align=center>
